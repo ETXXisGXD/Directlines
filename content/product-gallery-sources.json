@@ -1,0 +1,26 @@
+{
+  "itel-a100c": {
+    "sources": [
+      {
+        "url": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/97/9301024/1.jpg?8956",
+        "source": "Jumia Nigeria listing image"
+      }
+    ],
+    "query": "itel A100C 3GB 128GB phone",
+    "matched_titles": [
+      "Itel It A100c 6.6”, 5000mAh, 128gb+3gb black"
+    ]
+  },
+  "itel-power-80": {
+    "sources": [
+      {
+        "url": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/76/1221024/1.jpg?1909",
+        "source": "Jumia Nigeria listing image"
+      }
+    ],
+    "query": "itel power 80 phone 7000mah",
+    "matched_titles": [
+      "Itel POWER 80 -6.78\" 4GB RAM+ 128GB ROM-ANDROID 16-7000mAh-ORANGE"
+    ]
+  }
+}

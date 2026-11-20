@@ -1,0 +1,38 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Next.js
+.next/
+out/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+
+# local build cache
+.cache/
+
+# database backups
+backups/
+
+# playwright
+test-results/
+playwright-report/
+
+.vercel
+.env*
+
+ADMIN-CREDENTIALS.local.txt
+
+# generated QA artifacts and local debug scripts
+reports/
+scripts/debug-*.mjs
+scripts/inspect-*.mjs
+scripts/list-*.mjs
+scripts/smoke-*.mjs
+scripts/screenshot*.mjs
